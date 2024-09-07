@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gsantospy&show_icons=true&count_private=true&hide_border=true&title_color=DCE0D6&icon_color=0D1117&text_color=DCE0D6&bg_color=0D1117" alt="Gabriel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantospy&layout=compact&hide_border=true&title_color=DCE0D6&text_color=DCE0D6&bg_color=0D1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantospy&layout=compact&hide_border=true&title_color=DCE0D6&text_color=DCE0D6&bg_color=0D1117" />
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,r,perl,cs,java,ruby,php,dotnet,bootstrap,django,flask,nodejs,git,nginx,mysql,postgresql,rails)](https://skillicons.dev)
 
