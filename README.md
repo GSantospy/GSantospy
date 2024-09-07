@@ -11,7 +11,6 @@
 ![Gabriel Ribeiro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gsantospy&bg_color=0D1117&color=DCE0D6&line=DCE0D6&point=DCE0D6&area=true&hide_border=true)
 
 <div style="display: inline_block">
-<a href="mailto:gabrielsantosgdev@protonmail.com" target="_blank" style="text-decoration:none;"><img align="center" src="https://img.shields.io/badge/ProtonMail-0D1117?style=for-the-badge&logo=protonmail&labelColor=0D1117"></a>
 <a href="https://www.linkedin.com/in/gabrielrgdev/" target="_blank" style="text-decoration:none;" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117"></a>
 </div>
 
